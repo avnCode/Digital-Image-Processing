@@ -1,1 +1,7 @@
-Digital image processing works
+Digital image processing:
+
+Section-1 have following implementations:
+1. Histogram Computation
+2. Connected Component analysis
+3. Image text extraction
+4. Otsu binarization
