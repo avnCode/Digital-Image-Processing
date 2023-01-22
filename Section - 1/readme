@@ -2,4 +2,4 @@ Implemented various Image processing techniques:
 1. Histogram Computation
 2. Connected Component analysis
 3. Image text extraction
-4. 
+4. Otsu binarization
